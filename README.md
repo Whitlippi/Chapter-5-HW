@@ -5,7 +5,9 @@ Chapter-5-HW
 7) The parentheses are required, but the braces are ot because there is only one statemnet in this code. 
 8) the code compiles with no errors because it conforms to the rules of syntax, but the messaage still wont move across 
    because ; signifies the end of a statement which changes how to code is read. 
-9) 
+9) (when it shows up when im not in the editing modeit doesnt seem to format correctly let me know if it looks correct when you view it)
+
+
  public boolean badIndentation (int maxLines)
  {
     int lineCount = 3;
