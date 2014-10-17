@@ -26,7 +26,7 @@ Chapter-5-HW
 
 12)
   a) added the " after the roost.wav file, added the "t" in set and put the () after Morning
-     copied in code from morning file for part a as morning (1)
+     copied in code from morning file for part a as morning
   b) copied in code from morning file for part b as morning (2)
   c) copied in code from morning file for part c as morning (3)
   
